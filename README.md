@@ -37,7 +37,7 @@ TA还作了一些和wordpress文件的相关改动，包括：
 
 + 主题的footer.php文件：
 
-```php+HTML
+```HTML
 <!--音乐播放器-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
