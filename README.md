@@ -31,7 +31,7 @@ TA使用的是WordPress平台，通过对[stevenjoezhang/live2d-widget](https://
 
 示意图如下：
 
-![image-20220415170452739](https://chevereto2.hwb0307.top:7500/images/2022/04/15/image-20220415170452739.png)
+![image-20220415170452739](https://chevereto.hwb0307.com/images/2022/04/15/image-20220415170452739.png)
 
 TA还作了一些和wordpress文件的相关改动，包括：
 
